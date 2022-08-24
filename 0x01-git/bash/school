@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "The school is open."
+echo "The school is open. Cool, all my changes will be part of the main branch."
